@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://takatori-project.com/</loc>
+    <loc>https://takatoriproject.com/</loc>
     <lastmod>2026-03-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://takatori-project.com/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://takatori-project.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://takatoriproject.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://takatoriproject.com/?lang=en"/>
   </url>
 </urlset>
